@@ -1,7 +1,7 @@
 <!DOCTYPE html> 
 
     <head>
-        <title>Perpustakaan Pribadi</title> 
+        <title>Perpustakaan Pribadi Linda Kusuma Wardani</title> 
         <link rel="stylesheet" href="style.css">
 
     </head>
